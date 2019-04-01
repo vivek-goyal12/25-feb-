@@ -7,5 +7,5 @@ for i in range(0,1000000):
 	sum2=int(s[3]) +int(s[4]) +int(s[5])
 	if sum1==sum2:
 		c=c+1
-		#print(s,end=" ")
+		print(s,end=" ")
 print("total count=",c)
